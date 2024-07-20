@@ -56,7 +56,7 @@ function CTASection() {
         className="block px-9 py-3 text-sm font-medium text-white transition focus:outline-none rounded-lg"
         type="button"
       >
-        Let's get started!
+        Lets get started!
       </button>
     </div>
   );
